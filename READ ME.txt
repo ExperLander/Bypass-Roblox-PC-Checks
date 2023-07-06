@@ -1,0 +1,10 @@
+For help join this server : https://discord.gg/ZuqqRXEey9
+
+Note I do not personally cheat myself, If you want to cheat and get blacklisted or onw 
+It's up to you I'm just making this since my friend asked me to make one I was bored 
+and I had the knowledge. Now before you say anything This does helps performance
+due to cleaning temp/prefetch/logs files... Those files are useless as they 
+store useless files for apps/system... * No It does not harm nor damage 
+system, It is safe, you can check it by yourself I made this personally
+for my friend but I decided to make it public for no reason...
+the more it is the lower your drive gets. -temp/logs/prefetch
